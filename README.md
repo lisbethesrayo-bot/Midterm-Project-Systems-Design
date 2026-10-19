@@ -81,7 +81,7 @@ python -m unittest discover -s tests -v
 Create a new GitHub repository, commit the project files, and paste the repository URL into the course submission. If private, grant the instructor GitHub user `jdanieln` access before the deadline. The PDF report is included under `docs/`.
 
 ## Author
-Student: [Your Name]  
+Student: Lisbeth Espinales Rayo
 Course: ISM4113 – Systems Design  
-Instructor: Dr. Daniel Narváez  
+Instructor:Prof. José Narváez  
 Project: Coffee Shop Management System
