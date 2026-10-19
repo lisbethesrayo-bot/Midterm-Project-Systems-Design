@@ -82,6 +82,6 @@ Create a new GitHub repository, commit the project files, and paste the reposito
 
 ## Author
 Student: Lisbeth Espinales Rayo
-Course: ISM4113 – Systems Design  
-Instructor:Prof. José Narváez  
+Course: Systems Design  
+Instructor: Prof. José Narváez  
 Project: Coffee Shop Management System
